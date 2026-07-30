@@ -1,7 +1,7 @@
-# Ariel Cruz
+# Ariel Alan Cruz
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica;Interesado+en+Redes+y+Soporte+IT" alt="Typing SVG" />
 </p>
 
 Profesional en formación enfocado en el desarrollo de software robusto, lógica de programación y diseño de arquitecturas eficientes en el lado del servidor. Actualmente profundizando en tecnologías de backend, persistencia de datos y desarrollo de APIs REST.
@@ -29,7 +29,9 @@ Profesional en formación enfocado en el desarrollo de software robusto, lógica
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-> **En proceso de aprendizaje:** docker, angular
+**En Formación (Próximas Tecnologías)**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ---
 
@@ -46,9 +48,3 @@ Proyecto que simula servicios de gestión de datos para una entidad pública, or
 
 *   **Tecnologías:** Java, Spring Boot, JPA.
 *   **Enfoque técnico:** Persistencia de datos, mapeo relacional y diseño de endpoints estructurados para operaciones CRUD seguras y escalables.
-
----
-
-### Actividad en GitHub
-
-[![Gráfico de actividad de Ariel](https://github-readme-activity-graph.vercel.app/graph?username=arielAlanCruz&theme=tokyonight)](https://github.com/ashutoshgandr/github-readme-activity-graph)
