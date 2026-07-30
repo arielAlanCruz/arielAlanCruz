@@ -6,9 +6,9 @@
 
 Profesional en formación enfocado en el desarrollo de software robusto, lógica de programación y diseño de arquitecturas eficientes en el lado del servidor. Actualmente profundizando en tecnologías de backend, persistencia de datos y desarrollo de APIs REST.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-linkedin/](https://www.linkedin.com/in/arielalancruz/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielalancruz/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%">
+---
 
 ### Tecnologías y Herramientas
 
@@ -31,7 +31,7 @@ Profesional en formación enfocado en el desarrollo de software robusto, lógica
 
 > **En proceso de aprendizaje:** Actualmente adquiriendo conocimientos sólidos en Docker para la contenerización de aplicaciones.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%">
+---
 
 ### Proyectos Destacados
 
@@ -47,11 +47,12 @@ Proyecto que simula servicios de gestión de datos para una entidad pública, or
 *   **Tecnologías:** Java, Spring Boot, JPA.
 *   **Enfoque técnico:** Persistencia de datos, mapeo relacional y diseño de endpoints estructurados para operaciones CRUD seguras y escalables.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%">
+---
 
 ### Actividad en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielAlanCruz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Ariel" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielAlanCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arielAlanCruz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Ariel" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielAlanCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
 </p>
