@@ -1,7 +1,7 @@
 # Ariel Cruz
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica;Interesado+en+Redes+y+Soporte+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica" alt="Typing SVG" />
 </p>
 
 Profesional en formación enfocado en el desarrollo de software robusto, lógica de programación y diseño de arquitecturas eficientes en el lado del servidor. Actualmente profundizando en tecnologías de backend, persistencia de datos y desarrollo de APIs REST.
@@ -29,7 +29,7 @@ Profesional en formación enfocado en el desarrollo de software robusto, lógica
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-> **En proceso de aprendizaje:** Actualmente adquiriendo conocimientos sólidos en Docker para la contenerización de aplicaciones.
+> **En proceso de aprendizaje:** docker, angular
 
 ---
 
@@ -51,8 +51,6 @@ Proyecto que simula servicios de gestión de datos para una entidad pública, or
 
 ### Actividad en GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielAlanCruz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Ariel" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielAlanCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
+![Estadísticas de Ariel](https://github-readme-stats.vercel.app/api?username=arielAlanCruz&show_icons=true&theme=tokyonight&locale=es)
+&nbsp;&nbsp;
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=arielAlanCruz&layout=compact&theme=tokyonight&locale=es)
