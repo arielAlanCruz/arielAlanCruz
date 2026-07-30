@@ -8,43 +8,17 @@ Profesional en formación enfocado en el desarrollo de software robusto, lógica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielalancruz/)
 
----
+```java
+public class ArielAlanCruz {
+    private String role = "Backend Developer";
+    private String university = "UADE";
+    private String[] mainStack = {"Java", "Spring Boot", "SQL"};
+    private boolean openToWork = true;
 
-### Tecnologías y Herramientas
-
-**Backend & Base de Datos**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JPA / Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & Scripting**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Herramientas de Desarrollo**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**En Formación (Próximas Tecnologías)**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
----
-
-### Proyectos Destacados
-
-#### 🕹️ [Buenos Aires: Horizonte Sombrío](https://github.com/arielAlanCruz/BuenosAires-Horizonte-Sombrio)
-Un videojuego de rol (RPG) por turnos desarrollado en Java. Este desarrollo se centra en la aplicación de principios de Programación Orientada a Objetos (POO), manejo de estados del juego, diseño de personajes y estructuras de control para gestionar la lógica de combate.
-
-*   **Tecnologías:** Java (Standard Edition).
-*   **Enfoque técnico:** Estructura limpia, modularización de clases y manejo de lógica algorítmica orientada a juegos de estrategia.
-
-#### ⚙️ [Renaper CRUD Microservices](https://github.com/arielAlanCruz/renaper-crud-microservices)
-Proyecto que simula servicios de gestión de datos para una entidad pública, orientado a la arquitectura de microservicios y desarrollo de API RESTful.
-
-*   **Tecnologías:** Java, Spring Boot, JPA.
-*   **Enfoque técnico:** Persistencia de datos, mapeo relacional y diseño de endpoints estructurados para operaciones CRUD seguras y escalables.
+    public void develop() {
+        while (openToWork) {
+            designRobustAPIs();
+            improveNetworkSkills();
+        }
+    }
+}
