@@ -1,6 +1,6 @@
 # Ariel Alan Cruz
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Backend+Java;Estudiante+de+Ing.+Inform%C3%A1tica" alt="Typing SVG" />
 </p>
 
 Profesional en formación enfocado en el desarrollo de software robusto, lógica de programación y diseño de arquitecturas eficientes en el lado del servidor. Actualmente profundizando en tecnologías de backend, persistencia de datos y desarrollo de APIs REST.
