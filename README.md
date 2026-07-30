@@ -51,6 +51,4 @@ Proyecto que simula servicios de gestión de datos para una entidad pública, or
 
 ### Actividad en GitHub
 
-![Estadísticas de Ariel](https://github-readme-stats.vercel.app/api?username=arielAlanCruz&show_icons=true&theme=tokyonight&locale=es)
-&nbsp;&nbsp;
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=arielAlanCruz&layout=compact&theme=tokyonight&locale=es)
+[![Gráfico de actividad de Ariel](https://github-readme-activity-graph.vercel.app/graph?username=arielAlanCruz&theme=tokyonight)](https://github.com/ashutoshgandr/github-readme-activity-graph)
